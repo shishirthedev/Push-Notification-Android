@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "658280121001",
+    "firebase_url": "https://personal-project-9abff.firebaseio.com",
+    "project_id": "personal-project-9abff",
+    "storage_bucket": "personal-project-9abff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658280121001:android:1e660477a4a46772",
+        "android_client_info": {
+          "package_name": "com.shishirstudio.push_notification_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658280121001-cc1eph3shjqr325g9knnel080o4duvs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ML514dwzTq_qiAYM4l_LQPaEPyztLDk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658280121001:android:6b6492b890bce92f",
+        "android_client_info": {
+          "package_name": "shishirtstudio.com.templateproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658280121001-cc1eph3shjqr325g9knnel080o4duvs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ML514dwzTq_qiAYM4l_LQPaEPyztLDk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
