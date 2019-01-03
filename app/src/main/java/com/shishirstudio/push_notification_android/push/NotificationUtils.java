@@ -114,7 +114,7 @@ public class NotificationUtils {
         if (messageList == null || messageList.isEmpty())
             return;
 
-        int NOTIFICATION_ID = 1;
+        int NOTIFICATION_ID = getNotificationId();
 
         NotificationCompat.InboxStyle inboxStyle = new NotificationCompat.InboxStyle();
         inboxStyle.setSummaryText(summeryText);
